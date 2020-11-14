@@ -9,7 +9,8 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Home from './Views/Home';
 import About from './Views/About';
-import Contact from './Views/Contact'
+import Contact from './Views/Contact';
+import Product from './Views/Product';
 
 
 
@@ -26,6 +27,9 @@ function App() {
           <Route path="/about">
             <About />
           </Route>
+          <Route path="/products/:id">
+            < Product/>
+          </Route>  
           <Route path="/contact">
             < Contact/>
           </Route>  
