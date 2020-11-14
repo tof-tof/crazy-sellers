@@ -16,7 +16,7 @@ import Product from './Views/Product';
 
 function App() {
   return (
-    <div>
+    <div class="relative pb-10 min-h-screen"> 
       <Router>
         <Header />
         <div className="p-3">
