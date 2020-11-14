@@ -9,6 +9,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Home from './Views/Home';
 import About from './Views/About';
+import Contact from './Views/Contact'
 
 
 
@@ -25,6 +26,9 @@ function App() {
           <Route path="/about">
             <About />
           </Route>
+          <Route path="/contact">
+            < Contact/>
+          </Route>  
         </Switch>
         </div>
         <Footer />
