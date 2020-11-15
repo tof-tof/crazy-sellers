@@ -4,14 +4,14 @@ import {Link} from 'react-router-dom'
 
 function ProductCard(props) {
     return (
-        <div className="border mb-4 rounded overflow-hidden">
+        <div className="border w-64 mb-4 rounded overflow-hidden ">
             <Link to={`/products/${props.product.id}`}>
 
                 <div 
                     style={{
                         'backgroundImage': `url('${props.product.theImage}')`,
                     }}
-                    className="w-full h-64 bg-blue bg-cover"
+                    className="w-64 h-64 bg-blue bg-cover"
                 >
                     </div>
             </Link>
@@ -22,7 +22,7 @@ function ProductCard(props) {
                     </Link>    
                 </h3>
                 <div className="font-bold mb-3">
-                    $ { props.product.price }
+                    £ { props.product.price }
                 </div>
                 <div className="mb-3">
                     { props.product.description }
