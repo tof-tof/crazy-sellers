@@ -5,3 +5,5 @@ This application takes data from an API (genrated by mockapi found [here](https:
 The website includes a sliding menu, allowing users to visits different pages on the site without refreshing by ultising React routers.
 
 You can view the [site in action here](https://crazy-sellers.netlify.app/) (note that some images may struggle to come down in the time constraints of the free hosting server)
+
+built with react using tailwind css to generate the styles
