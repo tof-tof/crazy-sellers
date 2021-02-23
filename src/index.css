@@ -3,6 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+body {
+    /* align-items: center; */
+    justify-content: center;
+  }
 
 .loader {
     border: 5px solid #f3f3f3;

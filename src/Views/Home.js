@@ -18,7 +18,7 @@ function Home() {
     }
     if (products.data) {
         content = products.data.map((product) =>
-            <div key={product.id}>
+            <div key={product.id} className="justify-center">
                 <ProductCard
                     product={product}/>
             </div>

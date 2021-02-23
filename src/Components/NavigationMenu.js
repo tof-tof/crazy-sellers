@@ -40,6 +40,6 @@ function NavigationMenu(props) {
             </ul>
         </div>
     )
-}
+};
 
-export default NavigationMenu
+export default NavigationMenu;
