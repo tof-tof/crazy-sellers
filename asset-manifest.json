@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crazy-sellers/static/css/main.79361d80.chunk.css",
+    "main.js": "/crazy-sellers/static/js/main.44b76cf6.chunk.js",
+    "main.js.map": "/crazy-sellers/static/js/main.44b76cf6.chunk.js.map",
+    "runtime-main.js": "/crazy-sellers/static/js/runtime-main.6f1125a9.js",
+    "runtime-main.js.map": "/crazy-sellers/static/js/runtime-main.6f1125a9.js.map",
+    "static/js/2.392fa996.chunk.js": "/crazy-sellers/static/js/2.392fa996.chunk.js",
+    "static/js/2.392fa996.chunk.js.map": "/crazy-sellers/static/js/2.392fa996.chunk.js.map",
+    "static/js/3.0ff95b31.chunk.js": "/crazy-sellers/static/js/3.0ff95b31.chunk.js",
+    "static/js/3.0ff95b31.chunk.js.map": "/crazy-sellers/static/js/3.0ff95b31.chunk.js.map",
+    "index.html": "/crazy-sellers/index.html",
+    "static/css/main.79361d80.chunk.css.map": "/crazy-sellers/static/css/main.79361d80.chunk.css.map",
+    "static/js/2.392fa996.chunk.js.LICENSE.txt": "/crazy-sellers/static/js/2.392fa996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f1125a9.js",
+    "static/js/2.392fa996.chunk.js",
+    "static/css/main.79361d80.chunk.css",
+    "static/js/main.44b76cf6.chunk.js"
+  ]
+}
